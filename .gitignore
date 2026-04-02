@@ -35,5 +35,6 @@ datasets/
 .env
 secrets.json
 
-#Data 
-data/
+mlruns/
+data/raw/
+data/processed/
